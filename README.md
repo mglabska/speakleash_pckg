@@ -116,7 +116,7 @@ if __name__ == '__main__':
 ```
 
 
-![obraz-3.png](attachment:obraz-3.png)
+![przykładowe zastosowanie](symbols.jpg)
 
 
 [śr. długość zdania](imgs/forum_parenting_pl_corpus_avg_sentence_length_hist.html)
