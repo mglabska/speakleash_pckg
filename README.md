@@ -42,9 +42,9 @@ if __name__ == '__main__':
         pickle.dump(df, f)
 ```
 
-[DataFrame](PKO_text_analysis.ipynb#DataFrame)
+[DataFrame](text_analysis.ipynb#DataFrame)
 
-[Usuwanie duplikatów i pustych wierszy](PKO_text_analysis.ipynb#Duplikaty)
+[Usuwanie duplikatów i pustych wierszy](text_analysis.ipynb#Duplikaty)
 
 ### 2. Generowanie wykresów
 
@@ -155,7 +155,7 @@ if __name__ == '__main__':
 
 *******3.1. Wybór cech do modelu*******
 
-[Analiza wariancji](PKO_classification.ipynb#Wybór-cech-do-modelu)
+[Analiza wariancji](classification.ipynb#Wybór-cech-do-modelu)
 
 [Wykres wariancji](imgs/var_bar.html)
 
@@ -166,11 +166,11 @@ if __name__ == '__main__':
 
 *******3.2. SVC*******
 
-[Trenowanie modelu](PKO_classification.ipynb#SVC)
+[Trenowanie modelu](classification.ipynb#SVC)
 
 *******3.3. RandomForestClassifier*******
 
-[Trenowanie modelu](PKO_classification.ipynb#Random-Forest)
+[Trenowanie modelu](classification.ipynb#Random-Forest)
 
 ### 4. Co dalej?
 
