@@ -1,4 +1,3 @@
-# speakleash_pckg
 # Analiza przykładowego zbioru danych z projektu [SpeakLeash](https://speakleash.org/)
 
 *Powiązane repozytoria:*
