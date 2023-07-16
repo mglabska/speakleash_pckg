@@ -116,6 +116,9 @@ if __name__ == '__main__':
 ```
 
 
+![obraz-3.png](attachment:obraz-3.png)
+
+
 [śr. długość zdania](imgs/forum_parenting_pl_corpus_avg_sentence_length_hist.html)
 
 [śr. długość słowa](imgs/forum_parenting_pl_corpus_avg_word_length_hist.html)
@@ -186,3 +189,4 @@ if __name__ == '__main__':
 4. Wykrywanie pytań i odpowiedzi, szkodliwych treści.
 
 5. …
+
