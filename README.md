@@ -116,9 +116,6 @@ if __name__ == '__main__':
 ```
 
 
-![przykładowe zastosowanie](symbols.jpg)
-
-
 [śr. długość zdania](imgs/forum_parenting_pl_corpus_avg_sentence_length_hist.html)
 
 [śr. długość słowa](imgs/forum_parenting_pl_corpus_avg_word_length_hist.html)
@@ -146,6 +143,8 @@ if __name__ == '__main__':
 [odsetek symboli](imgs/forum_parenting_pl_corpus_symbols_ratio_hist.html)
 
 [odsetek casowników](imgs/forum_parenting_pl_corpus_verb_ratio_hist.html)
+
+![przykładowe zastosowanie](symbols.jpg)
 
 *******2.2. Analiza frekwencji słów*******
 
