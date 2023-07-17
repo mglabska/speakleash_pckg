@@ -142,7 +142,7 @@ if __name__ == '__main__':
 
 [odsetek symboli](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_symbols_ratio_hist.html)
 
-[odsetek casowników](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_verb_ratio_hist.html)
+[odsetek czasowników](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_verb_ratio_hist.html)
 
 ![przykładowe zastosowanie](symbols.jpg)
 
