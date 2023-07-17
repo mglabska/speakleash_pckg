@@ -41,9 +41,9 @@ if __name__ == '__main__':
         pickle.dump(df, f)
 ```
 
-[DataFrame](text_analysis.ipynb#-DataFrame)
+[DataFrame](text_analysis.ipynb#-dataframe)
 
-[Usuwanie duplikatów i pustych wierszy](text_analysis.ipynb#-Duplikaty)
+[Usuwanie duplikatów i pustych wierszy](text_analysis.ipynb#-duplikaty)
 
 ### 2. Generowanie wykresów
 
@@ -156,7 +156,7 @@ if __name__ == '__main__':
 
 *******3.1. Wybór cech do modelu*******
 
-[Analiza wariancji](classification.ipynb#-Wybór-cech-do-modelu)
+[Analiza wariancji](classification.ipynb#-wybór-cech-do-modelu)
 
 [Wykres wariancji](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/var_bar.html)
 
@@ -167,11 +167,11 @@ if __name__ == '__main__':
 
 *******3.2. SVC*******
 
-[Trenowanie modelu](classification.ipynb#-SVC)
+[Trenowanie modelu](classification.ipynb#-svc)
 
 *******3.3. RandomForestClassifier*******
 
-[Trenowanie modelu](classification.ipynb#-Random-Forest)
+[Trenowanie modelu](classification.ipynb#-random-forest)
 
 ### 4. Co dalej?
 
