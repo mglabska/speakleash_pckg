@@ -116,33 +116,33 @@ if __name__ == '__main__':
 ```
 
 
-[śr. długość zdania](imgs/forum_parenting_pl_corpus_avg_sentence_length_hist.html)
+[śr. długość zdania](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_avg_sentence_length_hist.html)
 
-[śr. długość słowa](imgs/forum_parenting_pl_corpus_avg_word_length_hist.html)
+[śr. długość słowa](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_avg_word_length_hist.html)
 
-[liczba camelCase](imgs/forum_parenting_pl_corpus_camel_case_hist.html)
+[liczba camelCase](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_camel_case_hist.html)
 
-[odsetek słów pisanych wielką literą](imgs/forum_parenting_pl_corpus_capitalized_words_ratio_hist.html)
+[odsetek słów pisanych wielką literą](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_capitalized_words_ratio_hist.html)
 
-[gunning_fog_index](imgs/forum_parenting_pl_corpus_gunning_fog_hist.html)
+[gunning_fog_index](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_gunning_fog_hist.html)
 
-[gęstość_leksykalna](imgs/forum_parenting_pl_corpus_lexical_density_hist.html)
+[gęstość_leksykalna](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_lexical_density_hist.html)
 
-[odsetek rzeczowników](imgs/forum_parenting_pl_corpus_noun_ratio_hist.html)
+[odsetek rzeczowników](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_noun_ratio_hist.html)
 
-[odsetek słów spoza słownika](imgs/forum_parenting_pl_corpus_oovs_ratio_hist.html)
+[odsetek słów spoza słownika](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_oovs_ratio_hist.html)
 
-[odsetek liczebników](imgs/forum_parenting_pl_corpus_pos_num_ratio_hist.html)
+[odsetek liczebników](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_pos_num_ratio_hist.html)
 
-[odsetek nieokreślonych części mowy](imgs/forum_parenting_pl_corpus_pos_x_ratio_hist.html)
+[odsetek nieokreślonych części mowy](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_pos_x_ratio_hist.html)
 
-[odsetek znaków interpunkcyjnych](imgs/forum_parenting_pl_corpus_punctuations_ratio_hist.html)
+[odsetek znaków interpunkcyjnych](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_punctuations_ratio_hist.html)
 
-[odsetek stopwords](imgs/forum_parenting_pl_corpus_stopwords_ratio_hist.html)
+[odsetek stopwords](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_stopwords_ratio_hist.html)
 
-[odsetek symboli](imgs/forum_parenting_pl_corpus_symbols_ratio_hist.html)
+[odsetek symboli](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_symbols_ratio_hist.html)
 
-[odsetek casowników](imgs/forum_parenting_pl_corpus_verb_ratio_hist.html)
+[odsetek casowników](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/forum_parenting_pl_corpus_verb_ratio_hist.html)
 
 ![przykładowe zastosowanie](symbols.jpg)
 
@@ -158,9 +158,9 @@ if __name__ == '__main__':
 
 [Analiza wariancji](classification.ipynb#Wybór-cech-do-modelu)
 
-[Wykres wariancji](imgs/var_bar.html)
+[Wykres wariancji](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/var_bar.html)
 
-[Macierz korelacji](imgs/corr_matrix.html)
+[Macierz korelacji](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/corr_matrix.html)
 
 
 
