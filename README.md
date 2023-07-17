@@ -150,7 +150,7 @@ if __name__ == '__main__':
 
 ![WordCloud](wordcloud.jpg)
 
-[Wykres słupkowy](imgs/freq_bar.html)
+[Wykres słupkowy](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/freq_bar.html)
 
 ### 3. Model klasyfikacyjny — oznaczanie jakości językowej tekstów
 
