@@ -41,9 +41,9 @@ if __name__ == '__main__':
         pickle.dump(df, f)
 ```
 
-[DataFrame](https://github.com/mglabska/speakleash_pckg/edit/master/text_analysis.ipynb#dataframe)
+[DataFrame](https://github.com/mglabska/speakleash_pckg/blob/master/text_analysis.ipynb#dataframe)
 
-[Usuwanie duplikatów i pustych wierszy](https://github.com/mglabska/speakleash_pckg/edit/master/text_analysis.ipynb#duplikaty)
+[Usuwanie duplikatów i pustych wierszy](https://github.com/mglabska/speakleash_pckg/blob/master/text_analysis.ipynb#duplikaty)
 
 ### 2. Generowanie wykresów
 
@@ -156,7 +156,7 @@ if __name__ == '__main__':
 
 *******3.1. Wybór cech do modelu*******
 
-[Analiza wariancji](https://github.com/mglabska/speakleash_pckg/edit/master/classification.ipynb#wybór-cech-do-modelu)
+[Analiza wariancji](https://github.com/mglabska/speakleash_pckg/blob/master/classification.ipynb#wybór-cech-do-modelu)
 
 [Wykres wariancji](https://htmlpreview.github.io/?https://github.com/mglabska/speakleash_pckg/master/imgs/var_bar.html)
 
@@ -167,11 +167,11 @@ if __name__ == '__main__':
 
 *******3.2. SVC*******
 
-[Trenowanie modelu](https://github.com/mglabska/speakleash_pckg/edit/master/classification.ipynb#svc)
+[Trenowanie modelu](https://github.com/mglabska/speakleash_pckg/blob/master/classification.ipynb#svc)
 
 *******3.3. RandomForestClassifier*******
 
-[Trenowanie modelu](https://github.com/mglabska/speakleash_pckg/edit/master/classification.ipynb#random-forest)
+[Trenowanie modelu](https://github.com/mglabska/speakleash_pckg/blob/master/classification.ipynb#random-forest)
 
 ### 4. Co dalej?
 
