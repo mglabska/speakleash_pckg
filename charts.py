@@ -56,7 +56,7 @@ class Chart:
     def draw_charts(self):
         for i in self.df_charts.columns:
             fig = px.histogram(self.df_charts[i], title=i, labels=self.df_charts[i].values)
-            fig.write_html(f"imgs/{self.PROJECT}_{i}_hist.html")
+            fig.write_html(f"{self.PROJECT}_{i}_hist.html")
 
 
 if __name__ == '__main__':
